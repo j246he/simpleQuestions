@@ -1,6 +1,5 @@
 # simpleQuestions
 Some common questions' solutions
 
-**savefile.java:**
-
+**savefile.java: **
 two methods to write things into the file without clearing the file
