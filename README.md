@@ -7,4 +7,5 @@ Some common questions' solutions
  **cycleDetection.cpp:**
  Floyd's cycle-finding algorithm
 
-
+**getCountries.js**
+Using HTTP.get to filter the countries which satifies containing given string and that the population is bigger than a specific number
